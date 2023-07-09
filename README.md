@@ -1,7 +1,5 @@
 **----------------------------------------------------------------------------------------------
 MULTI-CHAT-SERVER
-----------------------------------------------------------------------------------------------
-THE PROJECT IS RIGHTS IS SOLELY OWNS TO YOSHIMITSU-7 AND ANY PLAGUARISM WILL NOT BE TOLERATED.
 ------------------------------------------------------------------------------------------------
 Description:
 It is a chat server that can be operated over LAN and server host.It is developed by java socket 
